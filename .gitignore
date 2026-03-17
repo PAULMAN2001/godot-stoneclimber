@@ -1,0 +1,15 @@
+# Godot Project
+# Ignore binary files
+*.import
+*.gd
+*.tscn
+*.scn
+
+# Ignore build files
+*.pck
+*.exe
+*.pdb
+*.dylib
+
+# Ignore user-specific files
+.settings/
