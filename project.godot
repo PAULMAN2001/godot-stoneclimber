@@ -1,0 +1,10 @@
+# Godot 4 Project Configuration
+
+[project]
+name="Godot Stone Climber"
+version=0.1
+
+[application]
+running="true"
+config/version=0.1
+config/engine/config_file="res://project.godot"
